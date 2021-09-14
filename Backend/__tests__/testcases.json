@@ -1,0 +1,53 @@
+[
+  { "name": "someName", "startTime": "", "endTime": "" },
+  {
+    "name": "someName2",
+    "startTime": "2022-07-19T08:32",
+    "endTime": "2022-07-19T08:42"
+  },
+  {
+    "name": "someName3",
+    "startTime": "2022-07-19T08:45",
+    "endTime": "2022-07-19T08:55"
+  },
+  {
+    "name": "someName5",
+    "startTime": "2022-07-19T10:00",
+    "endTime": "2022-07-19T10:08"
+  },
+  {
+    "name": "someName6",
+    "startTime": "2022-07-19T10:10",
+    "endTime": "2022-07-19T10:15"
+  },
+  {
+    "name": "someName7",
+    "startTime": "2022-07-19T10:17",
+    "endTime": "2022-07-19T10:20"
+  },
+  {
+    "name": "someName8",
+    "startTime": "2022-07-19T10:21",
+    "endTime": "2022-07-19T10:40"
+  },
+  {
+    "name": "someName9",
+    "startTime": "2022-07-19T10:41",
+    "endTime": "2022-07-19T10:46"
+  },
+  {
+    "name": "someName10",
+    "startTime": "2022-07-19T10:50",
+    "endTime": "2022-07-19T10:52"
+  },
+  {
+    "name": "someName11",
+    "startTime": "2022-07-19T10:53",
+    "endTime": "2022-07-19T10:59"
+  },
+  {
+    "name": "someName New",
+    "startTime": "2023-07-19T10:53",
+    "endTime": "2023-07-19T10:59"
+  }
+]
